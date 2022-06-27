@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+Open you account from https://auth0.auth0.com/u/login and get your Domain Name and Client Id by creating Application.
 
 This project is a starting point for a Flutter application.
 
